@@ -16,6 +16,8 @@ THEN I am able to successfully create, update, and delete data in my database<br
 ## Here are the walk-thru video 
 
 ### Create schema and seed the database:
+link: https://drive.google.com/file/d/1bRHXVwOrmCCNwzxRUW1pOVmmn1j6ctSu/view
+
 
 ### GET routes for all categories, all products, and all tags
 
